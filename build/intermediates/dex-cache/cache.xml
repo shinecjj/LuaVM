@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jiasonchen/rapidview/RapidView/RapidViewDemo/app/libs/luaj-jse-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c805cb050f6998540d0eb0707e8566901523897f">
+        <dex dex="/Users/jiasonchen/rapidview/RapidView/RapidViewDemo/app/build/intermediates/pre-dexed/debug/luaj-jse-3.0.1_6a4dcd4e829fa8f3efa5c46247db78ec3975d86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/libs/android-support-v7-recyclerview-lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4d10690ea09b0fc56b846a27f29f63d4c3437e">
+        <dex dex="/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/build/intermediates/pre-dexed/debug/android-support-v7-recyclerview-lite_af185f1abaccf6479e164be917b2ebcffefcccea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/libs/luaj-jse-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c805cb050f6998540d0eb0707e8566901523897f">
+        <dex dex="/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/build/intermediates/pre-dexed/debug/luaj-jse-3.0.1_392fe25e434a97f342f6f16d6eab362431a6a8ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jiasonchen/rapidview/RapidView/RapidViewDemo/app/libs/android-support-v7-recyclerview-lite.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4d10690ea09b0fc56b846a27f29f63d4c3437e">
+        <dex dex="/Users/jiasonchen/rapidview/RapidView/RapidViewDemo/app/build/intermediates/pre-dexed/debug/android-support-v7-recyclerview-lite_0582c62eb32e74a3c7ce0bcd7659f6df86a09f22.jar" />
+    </item>
+
+</items>
