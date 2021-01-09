@@ -19,7 +19,7 @@ import android.view.MotionEvent;
 import com.tencent.rapidview.deobfuscated.IRapidActionListener;
 import com.tencent.rapidview.data.Var;
 
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaTable;
 
 import java.util.List;
 import java.util.Map;

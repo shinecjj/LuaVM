@@ -13,7 +13,7 @@
  ***************************************************************************************************/
 package com.tencent.rapidview.deobfuscated;
 
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaTable;
 
 /**
  * @Class IActionRunner

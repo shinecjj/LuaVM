@@ -27,7 +27,7 @@ import com.tencent.rapidview.utils.RapidBenchMark;
 import com.tencent.rapidview.utils.RapidStringUtils;
 import com.tencent.rapidview.utils.XLog;
 
-import org.luaj.vm2.Globals;
+import com.tencent.jse.vm2.Globals;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

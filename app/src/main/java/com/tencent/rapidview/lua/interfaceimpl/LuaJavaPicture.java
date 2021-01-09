@@ -30,11 +30,11 @@ import com.tencent.rapidview.utils.BitmapUtil;
 import com.tencent.rapidview.utils.PhotoUtils;
 import com.tencent.rapidview.utils.RapidThreadPool;
 
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.Varargs;
-import org.luaj.vm2.lib.jse.CoerceJavaToLua;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.Varargs;
+import com.tencent.jse.vm2.lib.jse.CoerceJavaToLua;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

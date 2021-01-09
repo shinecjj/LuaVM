@@ -20,9 +20,9 @@ import com.tencent.rapidview.framework.RapidNodeImpl;
 import com.tencent.rapidview.utils.RapidStringUtils;
 import com.tencent.rapidview.utils.RapidThreadPool;
 
-import org.luaj.vm2.Globals;
-import org.luaj.vm2.LuaClosure;
-import org.luaj.vm2.Prototype;
+import com.tencent.jse.vm2.Globals;
+import com.tencent.jse.vm2.LuaClosure;
+import com.tencent.jse.vm2.Prototype;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 

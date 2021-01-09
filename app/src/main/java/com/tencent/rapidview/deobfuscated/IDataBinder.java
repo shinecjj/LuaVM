@@ -17,8 +17,8 @@ import android.os.Handler;
 
 import com.tencent.rapidview.data.Var;
 
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
 
 import java.util.Map;
 

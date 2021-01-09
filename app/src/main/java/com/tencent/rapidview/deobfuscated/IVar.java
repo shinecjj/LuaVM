@@ -13,7 +13,7 @@
  ***************************************************************************************************/
 package com.tencent.rapidview.deobfuscated;
 
-import org.luaj.vm2.LuaValue;
+import com.tencent.jse.vm2.LuaValue;
 
 /**
  * @Class IVar

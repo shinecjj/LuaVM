@@ -15,10 +15,10 @@ package com.tencent.rapidview.lua;
 
 import com.tencent.rapidview.utils.RapidStringUtils;
 
-import org.luaj.vm2.Globals;
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.lib.jse.CoerceJavaToLua;
+import com.tencent.jse.vm2.Globals;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.lib.jse.CoerceJavaToLua;
 
 /**
  * @Class RapidLuaCaller

@@ -19,9 +19,9 @@ import com.tencent.rapidview.framework.RapidConfig;
 import com.tencent.rapidview.utils.RapidStringUtils;
 import com.tencent.rapidview.utils.XLog;
 
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.Varargs;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.Varargs;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 

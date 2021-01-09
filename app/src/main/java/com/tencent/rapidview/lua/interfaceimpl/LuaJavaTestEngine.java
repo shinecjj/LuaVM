@@ -20,8 +20,8 @@ import com.tencent.rapidview.server.TestServer;
 import com.tencent.rapidview.utils.HandlerUtils;
 import com.tencent.rapidview.utils.RapidDataUtils;
 
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaTable;
 
 import java.util.List;
 import java.util.Map;

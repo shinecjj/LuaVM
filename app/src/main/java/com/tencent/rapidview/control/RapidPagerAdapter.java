@@ -20,10 +20,10 @@ import android.view.ViewGroup;
 import com.tencent.rapidview.deobfuscated.IRapidView;
 import com.tencent.rapidview.deobfuscated.control.IPagerAdapter;
 
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.Varargs;
-import org.luaj.vm2.lib.jse.CoerceLuaToJava;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.Varargs;
+import com.tencent.jse.vm2.lib.jse.CoerceLuaToJava;
 
 import java.util.ArrayList;
 import java.util.List;

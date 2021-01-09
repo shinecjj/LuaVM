@@ -17,7 +17,7 @@ import android.graphics.Bitmap;
 
 import com.tencent.rapidview.deobfuscated.IRapidView;
 
-import org.luaj.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaFunction;
 
 /**
  * @Class LuaJavaShare

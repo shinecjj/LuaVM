@@ -15,13 +15,13 @@ package com.tencent.rapidview.lua;
 
 import com.tencent.rapidview.deobfuscated.IRapidView;
 
-import org.luaj.vm2.LuaString;
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.lib.OneArgFunction;
-import org.luaj.vm2.lib.TwoArgFunction;
-import org.luaj.vm2.lib.ZeroArgFunction;
-import org.luaj.vm2.lib.jse.CoerceJavaToLua;
+import com.tencent.jse.vm2.LuaString;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.lib.OneArgFunction;
+import com.tencent.jse.vm2.lib.TwoArgFunction;
+import com.tencent.jse.vm2.lib.ZeroArgFunction;
+import com.tencent.jse.vm2.lib.jse.CoerceJavaToLua;
 
 import java.util.Map;
 

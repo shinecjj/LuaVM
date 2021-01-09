@@ -30,7 +30,7 @@ import com.tencent.rapidview.task.RapidTaskCenter;
 import com.tencent.rapidview.utils.RapidThreadPool;
 import com.tencent.rapidview.utils.XLog;
 
-import org.luaj.vm2.Globals;
+import com.tencent.jse.vm2.Globals;
 
 import java.lang.reflect.Constructor;
 import java.util.Map;

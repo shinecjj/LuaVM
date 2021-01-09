@@ -23,10 +23,10 @@ import com.tencent.rapidview.lua.RapidLuaCaller;
 import com.tencent.rapidview.utils.HandlerUtils;
 import com.tencent.rapidview.utils.ViewUtils;
 
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.Varargs;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.Varargs;
 
 /**
  * @Class LuaJavaUIImpl

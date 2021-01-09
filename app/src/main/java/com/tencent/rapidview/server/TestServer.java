@@ -16,7 +16,7 @@ package com.tencent.rapidview.server;
 import com.tencent.rapidview.data.Var;
 import com.tencent.rapidview.utils.RapidThreadPool;
 
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaTable;
 
 import java.util.ArrayList;
 import java.util.List;

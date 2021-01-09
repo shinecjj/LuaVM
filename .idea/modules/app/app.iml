@@ -82,8 +82,9 @@
     <orderEntry type="jdk" jdkName="Android API 24 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-annotations:24.2.1@jar" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/libs/luaj-jse-3.0.1.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/libs/bcel-5.2.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/libs/android-support-v7-recyclerview-lite.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/Users/jiasonchen/rapidview/Luavmtest/LuaVM/app/libs/script-api-1.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:appcompat-v7:24.2.1@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-v4:24.2.1@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-compat:24.2.1@aar" level="project" />

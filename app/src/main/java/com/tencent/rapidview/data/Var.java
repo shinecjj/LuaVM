@@ -16,13 +16,13 @@ package com.tencent.rapidview.data;
 import com.tencent.rapidview.deobfuscated.IVar;
 import com.tencent.rapidview.utils.RapidStringUtils;
 
-import org.luaj.vm2.LuaBoolean;
-import org.luaj.vm2.LuaDouble;
-import org.luaj.vm2.LuaInteger;
-import org.luaj.vm2.LuaString;
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.lib.jse.CoerceJavaToLua;
+import com.tencent.jse.vm2.LuaBoolean;
+import com.tencent.jse.vm2.LuaDouble;
+import com.tencent.jse.vm2.LuaInteger;
+import com.tencent.jse.vm2.LuaString;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.lib.jse.CoerceJavaToLua;
 
 /**
  * @Class Var

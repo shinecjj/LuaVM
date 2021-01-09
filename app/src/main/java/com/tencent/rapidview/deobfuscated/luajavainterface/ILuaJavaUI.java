@@ -16,9 +16,9 @@ package com.tencent.rapidview.deobfuscated.luajavainterface;
 import com.tencent.rapidview.deobfuscated.IRapidActionListener;
 import com.tencent.rapidview.data.RapidDataBinder;
 
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
 
 /**
  * @Class ILuaJavaUI

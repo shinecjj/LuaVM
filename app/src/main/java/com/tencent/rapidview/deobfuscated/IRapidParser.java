@@ -23,8 +23,8 @@ import com.tencent.rapidview.lua.RapidXmlLuaCenter;
 import com.tencent.rapidview.param.ParamsObject;
 import com.tencent.rapidview.task.RapidTaskCenter;
 
-import org.luaj.vm2.Globals;
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.Globals;
+import com.tencent.jse.vm2.LuaTable;
 
 import java.util.List;
 

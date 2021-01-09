@@ -24,7 +24,7 @@ import com.tencent.rapidview.parser.RapidParserObject;
 import com.tencent.rapidview.deobfuscated.IRapidView;
 import com.tencent.rapidview.utils.XLog;
 
-import org.luaj.vm2.Globals;
+import com.tencent.jse.vm2.Globals;
 import org.w3c.dom.Element;
 import org.w3c.dom.NamedNodeMap;
 

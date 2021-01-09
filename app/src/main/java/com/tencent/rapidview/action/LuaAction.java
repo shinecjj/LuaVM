@@ -20,7 +20,7 @@ import com.tencent.rapidview.lua.RapidLuaLoader;
 import com.tencent.rapidview.parser.RapidParserObject;
 import com.tencent.rapidview.utils.RapidStringUtils;
 
-import org.luaj.vm2.Globals;
+import com.tencent.jse.vm2.Globals;
 import org.w3c.dom.Element;
 
 import java.util.Map;

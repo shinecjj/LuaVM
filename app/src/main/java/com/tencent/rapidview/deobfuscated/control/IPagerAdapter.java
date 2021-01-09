@@ -16,7 +16,7 @@ package com.tencent.rapidview.deobfuscated.control;
 
 import com.tencent.rapidview.deobfuscated.IRapidView;
 
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaTable;
 
 /**
  * @Class IPagerAdapter

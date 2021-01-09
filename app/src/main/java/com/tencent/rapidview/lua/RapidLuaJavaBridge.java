@@ -38,15 +38,14 @@ import com.tencent.rapidview.lua.interfaceimpl.RapidLuaJavaObject;
 import com.tencent.rapidview.utils.RapidFeedsCacheQueue;
 import com.tencent.rapidview.utils.XLog;
 
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.lib.jse.CoerceJavaToLua;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.lib.jse.CoerceJavaToLua;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import java.util.Map;
 
 /**
  * @Class RapidLuaJavaBridge

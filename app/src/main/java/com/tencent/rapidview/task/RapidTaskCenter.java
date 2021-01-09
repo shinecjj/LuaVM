@@ -21,8 +21,8 @@ import com.tencent.rapidview.deobfuscated.IRapidTask;
 import com.tencent.rapidview.deobfuscated.IRapidView;
 import com.tencent.rapidview.filter.FilterRunner;
 
-import org.luaj.vm2.LuaString;
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaString;
+import com.tencent.jse.vm2.LuaTable;
 import org.w3c.dom.Element;
 
 import java.util.List;

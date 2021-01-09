@@ -15,7 +15,7 @@ package com.tencent.rapidview.deobfuscated.luajavainterface;
 
 import android.graphics.Bitmap;
 
-import org.luaj.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaFunction;
 
 /**
  * @Class ILuaJavaShare

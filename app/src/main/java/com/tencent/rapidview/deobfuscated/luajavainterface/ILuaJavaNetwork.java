@@ -16,8 +16,8 @@ package com.tencent.rapidview.deobfuscated.luajavainterface;
 import com.tencent.rapidview.deobfuscated.IBytes;
 import com.tencent.rapidview.deobfuscated.utils.IRapidFeedsCacheQueue;
 
-import org.luaj.vm2.LuaFunction;
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaFunction;
+import com.tencent.jse.vm2.LuaTable;
 
 /**
  * @Class ILuaJavaNetwork

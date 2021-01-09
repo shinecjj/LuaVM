@@ -2,7 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9312211-5f91-41a4-a54e-26af3d26048c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_jiasonchen_rapidview_Luavmtest_LuaVM_app_libs_bcel_5_2_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/bcel-5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/libs/script-api-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/rapidview/native_module.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/jse/lua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/jse/luac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/jse/luajc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_jiasonchen_rapidview_Luavmtest_LuaVM_app_libs_luaj_jse_3_0_1_jar_unspecified_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_jars____Users_jiasonchen_rapidview_Luavmtest_LuaVM_app_libs_script_api_1_0_jar_unspecified_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libs/luaj-jse-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/rapidview/lua_call_demo.lua" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/rapidview/lua_call_demo.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/RapidLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/RapidLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/action/ActionObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/action/ActionObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/action/ActionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/action/ActionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/action/LuaAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/action/LuaAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/control/NormalRecyclerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/control/NormalRecyclerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/control/NormalRecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/control/NormalRecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/control/RapidPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/control/RapidPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/data/RapidDataBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/data/RapidDataBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/data/Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/data/Var.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IActionRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IActionRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IDataBinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IDataBinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IFilterRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IFilterRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IRapidParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IRapidParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IRapidTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IRapidTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/IVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/control/IPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/control/IPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/control/IRapidRecyclerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/control/IRapidRecyclerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaShare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/deobfuscated/luajavainterface/ILuaJavaUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/filter/FilterRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/filter/FilterRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/framework/RapidObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/framework/RapidObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaCaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaCaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaEnvironment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaEnvironment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaJavaBridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaJavaBridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaLib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidXmlLuaNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidXmlLuaNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaPicture.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaPicture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaShare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaTestEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaTestEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaUIImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaUIImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaViewWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/interfaceimpl/LuaJavaViewWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/parser/RapidParserObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/parser/RapidParserObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/server/TestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/server/TestServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/task/RapidTaskCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/task/RapidTaskCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/utils/LuaResourceFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/utils/LuaResourceFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/utils/RapidDataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/utils/RapidDataUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-12-40-17-559.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-14-30-31-763.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-15-21-53-232.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-15-55-39-714.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-17-22-24-037.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-17-23-06-139.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-19-22-14-363.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-20-06-39-868.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-profile/profile-2021-01-08-20-06-43-290.rawproto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +96,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -32,10 +113,27 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="oneplus-in2010-9817b118" />
+    <property name="DEBUGGABLE_PROCESS" value="com.tencent.rapidviewdemo" />
+    <property name="DEBUGGER_ID" value="Auto" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/libs" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.tencent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/libs" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -45,7 +143,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -109,5 +207,126 @@
       <updated>1610107311967</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1054" y="612" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610109482744">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1054" y="612" width="451" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610109482744" />
+    <state x="1054" y="633" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1610109335241">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1054" y="633" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610109335241" />
+    <state x="1143" y="464" key="AndroidProcessChooserDialog" timestamp="1610111143655">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1143" y="464" key="AndroidProcessChooserDialog/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610111143655" />
+    <state width="447" height="466" key="DebuggerActiveHint" timestamp="1610111266158">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="447" height="466" key="DebuggerActiveHint/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610111266158" />
+    <state width="2518" height="372" key="GridCell.Tab.0.bottom" timestamp="1610175824619">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.0.bottom/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824619" />
+    <state width="2518" height="372" key="GridCell.Tab.0.center" timestamp="1610175824618">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.0.center/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824618" />
+    <state width="2518" height="372" key="GridCell.Tab.0.left" timestamp="1610175824618">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.0.left/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824618" />
+    <state width="2518" height="372" key="GridCell.Tab.0.right" timestamp="1610175824619">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.0.right/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824619" />
+    <state width="2518" height="372" key="GridCell.Tab.1.bottom" timestamp="1610175824621">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.1.bottom/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824621" />
+    <state width="2518" height="372" key="GridCell.Tab.1.center" timestamp="1610175824620">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.1.center/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824620" />
+    <state width="2518" height="372" key="GridCell.Tab.1.left" timestamp="1610175824620">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.1.left/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824620" />
+    <state width="2518" height="372" key="GridCell.Tab.1.right" timestamp="1610175824621">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2518" height="372" key="GridCell.Tab.1.right/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610175824621" />
+    <state x="946" y="477" width="667" height="486" key="find.popup" timestamp="1610111000373">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="946" y="477" width="667" height="486" key="find.popup/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610111000373" />
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup" timestamp="1610110633844">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="945" y="331" width="670" height="676" key="search.everywhere.popup/-1440.-483.1440.2560/0.0.2560.1440@0.0.2560.1440" timestamp="1610110633844" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaCaller.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/rapidview/lua/RapidLuaCaller.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaClosure.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaClosure.java</url>
+          <line>207</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaClosure.java</url>
+          <line>507</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaClosure.java</url>
+          <line>229</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaClosure.java</url>
+          <line>262</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaClosure.java</url>
+          <line>394</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/tencent/jse/vm2/LuaValue.java</url>
+          <line>3440</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="i &amp; 0x3f" />
+        <watch expression=" i &amp; 0x3f" />
+        <watch expression="stack[a+1]" />
+        <watch expression="(o = stack[i&gt;&gt;&gt;23])" />
+        <watch expression="o" />
+        <watch expression="stack[i&gt;&gt;&gt;23]" />
+        <watch expression="i&gt;&gt;&gt;23" />
+        <watch expression="((b=i&gt;&gt;&gt;23)&gt;0xff? k[b&amp;0x0ff]: stack[b]).add((c=(i&gt;&gt;14)&amp;0x1ff)&gt;0xff? k[c&amp;0x0ff]: stack[c])" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

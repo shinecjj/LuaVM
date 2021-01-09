@@ -1,6 +1,6 @@
 --rapidView中调用的Lua文件默认会带上两个参数，一个是View的对象，一个是LuaJavaBridge接口
 local mRapidView,mJavaInterface = ...
-
+require("native_module")
 local mCalCount = 0
 
 function main()
@@ -10,7 +10,7 @@ function main()
 	mCalCount = mCalCount + 1
 
 	--rapidview提供了用于更新attribute的方法
-	textControl:getParser():update("text", "点击次数：" .. mCalCount)
+	textControl:getParser():update("text", "点击次数：" .. "module.constant")
 end
 
 function second(btnText, toastText)

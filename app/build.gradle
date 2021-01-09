@@ -25,4 +25,6 @@ dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile files('libs/android-support-v7-recyclerview-lite.jar')
+    compile files('libs/bcel-5.2.jar')
+    compile files('libs/script-api-1.0.jar')
 }

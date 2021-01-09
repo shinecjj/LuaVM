@@ -27,9 +27,9 @@ import com.tencent.rapidview.framework.RapidRuntimeCachePool;
 import com.tencent.rapidview.param.RecyclerViewLayoutParams;
 import com.tencent.rapidview.utils.HandlerUtils;
 
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.Varargs;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.Varargs;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -33,9 +33,9 @@ import com.tencent.rapidview.utils.RapidStringUtils;
 import com.tencent.rapidview.utils.XLog;
 
 
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.lib.jse.CoerceJavaToLua;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
+import com.tencent.jse.vm2.lib.jse.CoerceJavaToLua;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

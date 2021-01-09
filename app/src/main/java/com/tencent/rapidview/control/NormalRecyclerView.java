@@ -25,7 +25,7 @@ import com.tencent.rapidview.deobfuscated.control.IItemDecorationListener;
 import com.tencent.rapidview.deobfuscated.control.IRapidRecyclerView;
 import com.tencent.rapidview.utils.DeviceQualityUtils;
 
-import org.luaj.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaTable;
 
 import java.util.List;
 import java.util.Map;

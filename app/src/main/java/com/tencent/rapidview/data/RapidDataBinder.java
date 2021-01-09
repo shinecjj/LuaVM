@@ -21,9 +21,8 @@ import com.tencent.rapidview.deobfuscated.IRapidView;
 import com.tencent.rapidview.parser.RapidParserObject;
 import com.tencent.rapidview.utils.RapidDataUtils;
 
-import org.luaj.vm2.LuaTable;
-import org.luaj.vm2.LuaValue;
-import org.luaj.vm2.Varargs;
+import com.tencent.jse.vm2.LuaTable;
+import com.tencent.jse.vm2.LuaValue;
 
 import java.util.ArrayList;
 import java.util.List;

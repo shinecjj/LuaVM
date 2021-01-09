@@ -16,7 +16,7 @@ package com.tencent.rapidview.utils;
 import com.tencent.rapidview.framework.RapidConfig;
 import com.tencent.rapidview.framework.RapidPool;
 
-import org.luaj.vm2.lib.ResourceFinder;
+import com.tencent.jse.vm2.lib.ResourceFinder;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
